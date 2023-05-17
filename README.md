@@ -129,7 +129,7 @@ rspec spec --format doc
 ## 🎯 Future Features  <a name="future-features"></a>
 
 - [ ] Registrations
-- [] Styling
+- [ ] Styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
