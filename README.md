@@ -42,7 +42,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ✨ Key Features  <a name="key-features"></a>
-- [To be Updated soon]
+- Implements a connection between a Ruby on Rails back-end and React front-end
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +128,8 @@ rspec spec --format doc
 
 ## 🎯 Future Features  <a name="future-features"></a>
 
-- [ ] To be updated soon
+- [ ] Registrations
+- [] Styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
