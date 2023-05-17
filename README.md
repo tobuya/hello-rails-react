@@ -11,7 +11,6 @@
 - [🪙 Budget Tracker](#-hello-rails-react)
   - [🧰 Tech Stack  ](#-tech-stack--)
   - [✨ Key Features  ](#-key-features--)
-  - [🚀 Live Demo](#-live-demo--)
   - [📘 Getting Started  ](#-getting-started--)
     - [📋 Prerequisites](#-prerequisites)
     - [📂 Setup](#-setup)
@@ -45,10 +44,6 @@
 - Implements a connection between a Ruby on Rails back-end and React front-end
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
- [To be Updated soon]
 
 ## 📘 Getting Started  <a name="getting-started"></a>
 
