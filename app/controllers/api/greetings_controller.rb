@@ -1,6 +1,6 @@
 class Api::GreetingsController < ApplicationController
-  def random
-    @greeting = Message.pluck(:content).sample
-    render json: { greeting: @greeting }
+  def index
+    @greetings = Message.all
+    render json: @greetings, status: :ok
   end
 end
